@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdapterClassMode", "AdapterClassMode\AdapterClassMode.vcxproj", "{F63F67E7-E408-425B-9CC1-DEAFC5352133}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bridge", "Bridge\Bridge.vcxproj", "{A057216E-03FE-4DFA-A500-EBF029841955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{F63F67E7-E408-425B-9CC1-DEAFC5352133}.Release|x64.Build.0 = Release|x64
 		{F63F67E7-E408-425B-9CC1-DEAFC5352133}.Release|x86.ActiveCfg = Release|Win32
 		{F63F67E7-E408-425B-9CC1-DEAFC5352133}.Release|x86.Build.0 = Release|Win32
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Debug|x64.ActiveCfg = Debug|x64
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Debug|x64.Build.0 = Debug|x64
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Debug|x86.ActiveCfg = Debug|Win32
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Debug|x86.Build.0 = Debug|Win32
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Release|x64.ActiveCfg = Release|x64
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Release|x64.Build.0 = Release|x64
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Release|x86.ActiveCfg = Release|Win32
+		{A057216E-03FE-4DFA-A500-EBF029841955}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
